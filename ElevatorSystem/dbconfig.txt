@@ -1,0 +1,1 @@
+server=192.168.1.2;port=3306;database=elevator_db;uid=elevator_app;pwd=rosabee00;ConnectionTimeout=5;SslMode=Preferred;
